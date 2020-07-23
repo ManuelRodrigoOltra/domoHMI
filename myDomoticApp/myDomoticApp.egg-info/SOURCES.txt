@@ -1,0 +1,7 @@
+setup.py
+domoManu/myDomoticApp/__init__.py
+domoManu/myDomoticApp/__main__.py
+myDomoticApp.egg-info/PKG-INFO
+myDomoticApp.egg-info/SOURCES.txt
+myDomoticApp.egg-info/dependency_links.txt
+myDomoticApp.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: hmi
+Version: 0.0.1rc0
+Summary: hmi principal
+Home-page: UNKNOWN
+Author: Lumensia Sensors S.L.
+Author-email: asaez@lumensia.com
+License: Lumensia Sensors S.L. Copyright
+Description: UNKNOWN
+Keywords: domoManu
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

@@ -1,0 +1,8 @@
+setup.py
+domoManu/__init__.py
+domoManu/hmi/__init__.py
+domoManu/hmi/ui_general.py
+hmi.egg-info/PKG-INFO
+hmi.egg-info/SOURCES.txt
+hmi.egg-info/dependency_links.txt
+hmi.egg-info/top_level.txt
